@@ -1,0 +1,10 @@
+Ini adalah file external
+dan ini adalah baris ke-dua
+
+data
+No Nama
+1  Faqihza
+2  Mukhlis
+3  Ucup
+4  Mario
+5  Sandra

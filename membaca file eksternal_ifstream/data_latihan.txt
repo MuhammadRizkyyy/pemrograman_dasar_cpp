@@ -1,0 +1,9 @@
+Saya adalah seorang programmer yang handal
+dan wirausaha yang sangat hebat
+
+Stok
+No	Barang	Harga
+1	Celana	15000
+2	Baju	20000
+3	Hoodie	35000
+4	Kemeja	30000
